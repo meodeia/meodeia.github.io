@@ -1,2 +1,2 @@
 n te odeio gu 🌹
-<img src="/assets/gatinhos.jpeg">
+<img src="/meodeia/assets/gatinhos.jpeg">
